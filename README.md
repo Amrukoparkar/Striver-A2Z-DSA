@@ -22,6 +22,8 @@ This repository contains my daily solutions to the **Striver A2Z DSA Sheet**.
 
 🧠 Code360: https://www.naukri.com/code360/profile/2909dcb1-5407-494f-a079-77f3dc894404
 
+🔗 Striver A2Z Sheet Link: https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z
+
 ---
 
 ## 🌟 Why this Repository?
