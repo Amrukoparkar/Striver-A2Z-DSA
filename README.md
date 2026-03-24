@@ -18,9 +18,9 @@ This repository contains my daily solutions to the **Striver A2Z DSA Sheet**.
   
 🔗 Platforms
 
-💻 LeetCode: https://leetcode.com/YOUR_USERNAME
+💻 LeetCode: https://leetcode.com/u/Amru_ta/
 
-🧠 Code360: https://www.naukri.com/code360/profile/YOUR_PROFILE
+🧠 Code360: https://www.naukri.com/code360/profile/2909dcb1-5407-494f-a079-77f3dc894404
 
 ---
 
