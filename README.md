@@ -41,7 +41,7 @@ This repository contains my daily solutions to the **Striver A2Z DSA Sheet**.
 
 ## 🤝 Connect With Me
 
-* 💼 GitHub: https://github.com/YOUR_USERNAME
+* 💼 GitHub: https://github.com/amrukoparkar
 
 ---
 
