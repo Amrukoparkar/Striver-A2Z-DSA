@@ -13,7 +13,7 @@ bool gemsInAStraightLine(vector<vector<int>> &points, int n)
         int y3 = points[i][1];
         
         // Cross multiplication check
-        if((y2 - y1) * (x3 - x2) != (y3 - y2) * (x2 - x1)) {
+        if((y2 - y1) * (x3 -  x2) != (y3 - y2) * (x2 - x1)) {
             return false;
         }
     }
