@@ -1,7 +1,7 @@
 #include <bits/stdc++.h> 
 using namespace std;
 
-bool gemsInAStraightLine(vector<vector<int>> &points, int n)
+bool gemsInAStraightLine(vector<vector<int>> &points, int n )
 {
     if(n <= 2) return true;
     
