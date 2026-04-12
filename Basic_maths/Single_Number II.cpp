@@ -5,7 +5,7 @@ int elementThatAppearsOnce(vector<int> arr) {
         int bitCount = 0;
 
         for (int num : arr) {
-            if (num & (1 << i)) {
+            if (num & (1 << i )) {
                 bitCount++;
             }
         }
