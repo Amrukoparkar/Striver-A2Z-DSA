@@ -1,23 +1,20 @@
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
-
-    int reverseNumber(int n) {
-        int revNum = 0;
-        while (n > 0) {
-            int lastDigit = n % 10;
-
-            
-            revNum = revNum * 10 + lastDigit;
-            n = n / 10;
+class revers{
+    public:
+    void re(int n){
+        while(n>0){
+            int a=n%10;
+            cout<<a;
+            n=n/10;
         }
-
-        return revNum;
-    };
-int main() {
-    int num ;
-    cout<<"enter number : ";
-    cin>>num;
-    int a=reverseNumber(num);
-    cout << a << endl;  
+    }
+};
+int main(){
+    int N;
+    cout<<"enter the value of N"; 
+    cin>>N;   
+    revers myobj;
+    myobj.re(N);
     return 0;
 }
